@@ -10,7 +10,7 @@ It is a command line tool, you can easily run using the following command.
 > server -p <PORT> -dir "path/to/dir"
 ```
 
-# Application
+# Applications
 
 - Transfer files from PC to other devices
 - Simple HTML, CSS and JS testing in your PC and other devices as well
